@@ -1,0 +1,4 @@
+# Default ignored files
+/.idea/*
+/target
+/dependency-reduced-pom.xml
